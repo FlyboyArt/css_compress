@@ -1,8 +1,8 @@
-# css_compress
+## css_compress
 
 Offline CSS compresor written in Ruby and requires Thor.
 
-## Usage
+### usage
 
 css_compress compress -v true screen.css screen.min.css
 
